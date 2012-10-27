@@ -1,0 +1,17 @@
+8:10
+http://ps3nyc.org/news/?feed=rss2&cat=32
+
+8:45
+http://ps3nyc.org/?feed=rss2&cat=32
+http://www.ps3nyc.org/gallery/?feed=rss2&cat=6
+//http://www.ps3nyc.org/gallery/?feed=rss2&cat=6
+//http://www.ps3nyc.org/gallery?feed=rss2&cat=19
+
+//http://www.ps3nyc.org/news/?feed=rss2&cat=32
+//C:\ALLFOLDERS\PS3\videos\
+//23:00
+//http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&photoset_id=72157604606837073&api_key=a92474131c43fdbd07d5a0e60213e87c&user_id=25145109@N08
+//http://api.flickr.com/services/feeds/photos_public.gne?tags=site&id=25145109@N08&lang=en-us&format=rss_200
+//http://www.ps3nyc.org/blog.xml
+//http://www.ps3nyc.org/blog/?feed=rss2&cat=48
+//http://api.flickr.com/services/feeds/photos_public.gne?id=31115343@N00&tags=ps3nyc&lang=en-us&format=rss_200
